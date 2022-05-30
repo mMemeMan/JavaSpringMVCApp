@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: ArtMi
+Build-Jdk: BellSoft Liberica JDK version 16.0.2
+
